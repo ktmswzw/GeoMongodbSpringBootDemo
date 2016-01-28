@@ -7,7 +7,6 @@ import org.springframework.stereotype.Repository;
  * Created by  moxz
  * User: 224911261@qq.com
  * 2016/1/28-14:09
- * GeoMongodbJava.com.example
  */
 
 @Repository

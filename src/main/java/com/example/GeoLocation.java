@@ -10,7 +10,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
  * Created by  moxz
  * User: 224911261@qq.com
  * 2016/1/28-12:35
- * Feeling.com.xecoder.model.business
  */
 @Document(collection="geo_location")
 public class GeoLocation {
